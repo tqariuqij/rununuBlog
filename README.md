@@ -1,8 +1,10 @@
 # GraphCMS Headless Blog
 
-### [Live Site](https://cryptoksh.vercel.app/)
+### [Live Site](https://rununublog.vercel.app)
 
-![GraphCMS Headless Blog](https://i.ibb.co/NmnJnKD/image.png)
+![GraphCMS Headless Blog](https://res.cloudinary.com/johnte/image/upload/v1658487703/rununuLandingPage1_arghmy.png)
+
+![Rununu Landing page](https://res.cloudinary.com/johnte/image/upload/v1658487703/RununuLandingPage2_ksnsnb.png)
 
 ## Introduction
 
@@ -12,4 +14,4 @@ I have customized and added some few changes where necessary.
 
 I have worked with GraphCMS. GraphCMS is a headless content management system based on GraphQL technology enabling seamless integration with any application.
 
-# cryptokshV2
+# RununuBlog
